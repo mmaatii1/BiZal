@@ -53,6 +53,7 @@
     <DataSource Include="Zal.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="AverageSellingPriceByMakeAndModel.rdl" />
     <Report Include="CompanySalesByYear.rdl" />
     <Report Include="ModelCountByYearAndMake.rdl" />
   </ItemGroup>
