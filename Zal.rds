@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="Zal">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=DESKTOP-HK0QEVG\SQLEXPRESS01;Initial Catalog=SBI_Zaliczenie</ConnectString>
+    <ConnectString>Data Source=.;Initial Catalog=SBI_Zaliczenie</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>05dead0e-dbbe-44d7-8c4b-41b1e74f997c</DataSourceID>
